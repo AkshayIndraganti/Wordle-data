@@ -1,0 +1,14 @@
+{
+  "name": "wordle-data",
+  "version": "1.0.0",
+  "description": "Wordle data that helps to to create data center",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Indraganti Akshay",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
